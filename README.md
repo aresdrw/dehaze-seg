@@ -22,9 +22,11 @@ pip install future tensorboard
 ## Dataset Preparation
 
 ```
-**HazyUAVid**: Download all image and label packages from [BaiduNetdisk](https://pan.baidu.com/s/1HI17o4Pw4wQ5iybX4Oigdw?pwd=RSDL) and extract them to `datasets/foggy_uavid_for_train`.
+**HazyUAVid**: Download all image and label packages from [BaiduNetdisk](TODO: Waited to sort and upload)
+and extract them to `datasets/foggy_uavid_for_train`.
 
-**HazyUDD**: Download all image and label packages from [BaiduNetdisk](https://pan.baidu.com/s/1tzA6nB2c5OtpyUvpAfLUHg?pwd=RSDL) and extract them to `datasets/foggy_udd_for_train`.
+**HazyUDD**: Download all image and label packages from [BaiduNetdisk](TODO: Waited to sort and upload)
+and extract them to `datasets/foggy_udd_for_train`.
 ```
 
 
