@@ -36,9 +36,11 @@ datasets
 ├── foggy_udd_for_train
 │   ├── train
 │   ├── val
+├──
 Dehaze_Seg
 ├── configs
 ├── checkpoints
+```
 ```
 
 ## Pretraining Weights
