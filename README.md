@@ -30,8 +30,7 @@ pip install future tensorboard
 ## Pretraining Weights
 * **Download:**
 HazyUAVid pre-trained weights from [BaiduNetdisk](https://pan.baidu.com/s/1HI17o4Pw4wQ5iybX4Oigdw?pwd=RSDL)
-HazyUDD pre-trained weights from [BaiduNetdisk](https://pan.baidu.com/s/1tzA6nB2c5OtpyUvpAfLUHg?pwd=RSDL)
-for testing. Unzip them into Dehaze_Seg/work_dirs/path.
+HazyUDD pre-trained weights from [BaiduNetdisk](https://pan.baidu.com/s/1tzA6nB2c5OtpyUvpAfLUHg?pwd=RSDL) for testing. Unzip them into Dehaze_Seg/work_dirs/path.
 
 ## Dehaze Inference
   Run the evaluation:
