@@ -26,28 +26,12 @@ pip install future tensorboard
 
 **HazyUDD**: Download all image and label packages from [BaiduNetdisk](https://pan.baidu.com/s/1tzA6nB2c5OtpyUvpAfLUHg?pwd=RSDL) and extract them to `datasets/foggy_udd_for_train`.
 
-The final folder structure should look like this:
-
-```
-datasets
-├── ...
-├── foggy_uavid_for_train
-│   ├── train
-│   ├── val
-├── foggy_udd_for_train
-│   ├── train
-│   ├── val
-├── ...
-Dehaze_Seg
-├── ...
-├── configs
-├── checkpoints
-├── ...
-```
-
 
 ## Pretraining Weights
-* **Download:** Download HazyUAVid pre-trained weights from [BaiduNetdisk](https://pan.baidu.com/s/1HI17o4Pw4wQ5iybX4Oigdw?pwd=RSDL) and HazyUDD [BaiduNetdisk](https://pan.baidu.com/s/1tzA6nB2c5OtpyUvpAfLUHg?pwd=RSDL) for testing. Unzip them into Dehaze_Seg/work_dirs/ path.
+* **Download:**
+HazyUAVid pre-trained weights from [BaiduNetdisk](https://pan.baidu.com/s/1HI17o4Pw4wQ5iybX4Oigdw?pwd=RSDL)
+HazyUDD pre-trained weights from [BaiduNetdisk](https://pan.baidu.com/s/1tzA6nB2c5OtpyUvpAfLUHg?pwd=RSDL)
+for testing. Unzip them into Dehaze_Seg/work_dirs/path.
 
 ## Dehaze Inference
   Run the evaluation:
