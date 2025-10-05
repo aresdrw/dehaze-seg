@@ -1,4 +1,4 @@
-# [Submitted to IEEE TGRS] Dehaze-Seg: A Multi-task Learning Framework for Collaborative Dehazing and Semantic Segmentation
+# Dehaze-Seg: A Multi-task Learning Framework and benchmark for Collaborative Dehazing and Semantic Segmentation
 [Ziquan Wang]<sup>1</sup>, [Yongsheng Zhang]<sup>1</sup>, [Zimian Wei]<sup>2</sup>, et al. <br />
 <sup>1</sup> Information Engineering University  <sup>2</sup> National University of Defense Technology 
 
